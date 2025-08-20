@@ -7,3 +7,8 @@ Aqui, você encontrará minhas resoluções para uma variedade de exercícios e 
 
 O principal objetivo deste repositório é servir como um portfólio dinâmico, exibindo a aplicação de conceitos teóricos de redes em cenários virtuais. 
 Cada laboratório foi projetado para solidificar a compreensão de protocolos e tecnologias, desde os fundamentos até configurações mais avançadas.
+
+## Fontes dos Laboratórios
+Os laboratórios neste repositório foram baseados em conteúdos e cursos de alta qualidade. Gostaria de dar os devidos créditos às seguintes fontes:
+- Jeremy's IT Labs: https://www.jeremysitlab.com
+- Wendell Odom's: https://www.certskills.com
