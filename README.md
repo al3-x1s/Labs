@@ -1,3 +1,5 @@
+![Imagem Ilustrativa](network-wallpaper.jpg)
+
 # Portfólio de Laboratórios de Redes
 Bem-vindo ao meu repositório de aprendizado prático em redes de computadores! 
 Este espaço foi criado para documentar e demonstrar minhas habilidades na configuração e troubleshooting de dispositivos de rede. 
